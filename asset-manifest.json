@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Canvas_CAD/static/css/main.786b8262.css",
-    "main.js": "/Canvas_CAD/static/js/main.97d2bd66.js",
+    "main.css": "/Canvas_CAD/static/css/main.0b2a34cd.css",
+    "main.js": "/Canvas_CAD/static/js/main.4718337a.js",
     "index.html": "/Canvas_CAD/index.html",
-    "main.786b8262.css.map": "/Canvas_CAD/static/css/main.786b8262.css.map",
-    "main.97d2bd66.js.map": "/Canvas_CAD/static/js/main.97d2bd66.js.map"
+    "main.0b2a34cd.css.map": "/Canvas_CAD/static/css/main.0b2a34cd.css.map",
+    "main.4718337a.js.map": "/Canvas_CAD/static/js/main.4718337a.js.map"
   },
   "entrypoints": [
-    "static/css/main.786b8262.css",
-    "static/js/main.97d2bd66.js"
+    "static/css/main.0b2a34cd.css",
+    "static/js/main.4718337a.js"
   ]
 }
