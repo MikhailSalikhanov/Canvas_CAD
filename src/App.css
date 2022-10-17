@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.button{
+  display: block;
+  margin: 20px;
+  /* color: red; */
+}
+
+canvas{
+  display: block;
+}
