@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Canvas_CAD/static/css/main.786b8262.css",
+    "main.js": "/Canvas_CAD/static/js/main.97d2bd66.js",
+    "index.html": "/Canvas_CAD/index.html",
+    "main.786b8262.css.map": "/Canvas_CAD/static/css/main.786b8262.css.map",
+    "main.97d2bd66.js.map": "/Canvas_CAD/static/js/main.97d2bd66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.786b8262.css",
+    "static/js/main.97d2bd66.js"
+  ]
+}
